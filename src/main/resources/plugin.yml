@@ -1,0 +1,3 @@
+name: Paul18899-t2
+main: com.tenjava.entries.Paul18899.t2.TenJava
+version: '${project.version}'
